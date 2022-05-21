@@ -1,4 +1,4 @@
-#About me
+# About me
 there is litterly nothing interesting about me
 Email me at: mail.me@ismailj.me for general questions,
 Or github@ismailj.me for github related stuff
