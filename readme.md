@@ -1,3 +1,3 @@
 # About me
 there is litterly nothing interesting about me  
-Email me at: [ismail@ismailj.eu.org](mailto:ismail@ismailj.eu.org)  
+Email me at: [github@lovebodnas.us.to](mailto:github@lovebodnas.us.to)  
